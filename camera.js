@@ -22,7 +22,7 @@ window.onload = function(){
     };
 
     var appInfo = {
-        appUrl: "http://castapp.infthink.com/mirror/screen-sharing-sample/screen_viewer.html",
+        appUrl: "https://openflint.github.io/screen-sharing-sample/screen_viewer.html",
         useIpc: true,
         maxInactive: -1
     };
